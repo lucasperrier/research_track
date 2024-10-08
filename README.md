@@ -1,3 +1,3 @@
-Lotka_volterra_RK4 associated report
+Report associated with 'Lotka_Volterra_RK4'
 https://www.overleaf.com/read/cqqpjpdqsgpq#f2acbf
 
